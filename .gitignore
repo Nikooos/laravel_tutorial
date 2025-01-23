@@ -1,0 +1,11 @@
+# Laravel specific
+/vendor/
+/node_modules/
+.env
+
+# React specific
+/frontend/node_modules/
+
+# IDEs and Editor settings
+.vscode/
+.idea/
